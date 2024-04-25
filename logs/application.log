@@ -1,0 +1,11 @@
+2024-04-25 17:02:53 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:03:47 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:05:31 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:15:38 ERROR (ConsultaDao.java:172) Error al registrar el nuevo estudiante: ERROR: llave duplicada viola restricción de unicidad «estudiantes_pkey»
+  Detail: Ya existe la llave (codigo_id)=(000003).
